@@ -1,0 +1,81 @@
+<html>
+  <head>
+  <link rel="stylesheet" href="style.css"
+	type="text/css"/>
+  <title> Milos' IT Profile </title>
+  </head>
+  <body>
+    <header>
+
+      <span>   </span>  <span>  </span>
+      <span> </span>  <span>   </span>
+      <nav><a href="profile.html"> home</a>
+	</header>
+    </nav>
+
+
+    <section class='personal'>
+      <div> <h2> About:Self </h2>      </div>
+      <article>
+	<h3>        </h3>
+      </article>
+      <article>
+	<span> name  </span>
+	<span> number  </span>
+	<span> background  </span>
+	<div class='text'>
+	  <span> culture   </span>
+	  <span> education to date </span>
+	  <span>  languages </span>
+	  <span>  hobbies etc  </span>
+	</div>  
+      </article>
+      <article>
+	</article>
+    </section>
+
+    <section class='interest'>
+      <div>
+	<span> IT: Interest </span>
+	<span> IT: Court and Spark </span>
+	<p> First install of Ubuntu and seeing
+	  the source code to the OS inner
+	  workings. The arcane impression of
+	  Emacs goat and an elisp tutorial.
+	  Reading the GNU's manifesto
+	  by Stallman. Software should be
+	  "free". The negative influence of
+	  panopticon family units and
+	  community.
+	</p>
+      </div>
+      <div> <span> IT: Wisdom </span>
+	<ul><li>experimental, troll sites
+	    development,
+	    clear-net and ahh.. unclear.</li>
+	  <li> to do list app implemented with
+	    simple js, css/html and a touch of
+	    php, paprika and lime.
+	  </li>
+	  <li> A trivial, buggy, chat site
+	    (without sockets)
+	    implemented in php and js with
+	    sleep() and triggers refresh on
+	    page load. CopyLeft. All credit to
+	    me.
+	  </li>
+	  <li> some experiments and small class
+	    assignments with emacs lisp.</li>
+	  <li> and so on.     </li>
+	  </ul>
+
+	    
+	
+      </div>
+      <div>    </div>
+      
+
+      </section> 
+    </body>
+<html>
+  
